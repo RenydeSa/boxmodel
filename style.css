@@ -1,0 +1,39 @@
+div {
+    width: 450px;
+    height: 450px;
+
+    border-width: 15px;
+    border-style: solid;
+    border-color: rgb(175, 167, 223);
+    border-radius: 50%;
+
+    
+    background-image: url(flor.jpg);
+    box-shadow: inset 0px 0px 50px 25px rgb(146, 86, 86);
+    background-size:cover;
+
+
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+    outline-width: 10px;
+    outline-style:dotted;
+    outline-color: rgb(214, 90, 121);
+
+
+    margin: auto;
+    margin-top: 80px;
+}
+
+p{
+    color:rgb(63, 63, 88);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight:bolder;
+    font-style:italic;
+    text-align: center;
+    text-decoration:dashed;
+    padding-top: 100px;
+}
